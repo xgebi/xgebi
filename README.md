@@ -1,6 +1,6 @@
 ### Greetings humans, bots, dolphins and other extraterrestrial visitors. 👋
 
-My name is Sarah. I am a Front-end leaning developer despite what my pinned repositories may imply. That's mostly because I reached the age when I'm too old to maintain projects that I don't use (for free, I have other hobbies 😉).
+My name is Sarah. I am a Front-end leaning developer despite what my pinned repositories may imply. That's mostly because I reached the age when I'm too old to maintain side projects that I don't use (for free, I have other hobbies 😉).
 
 <!--
 **xgebi/xgebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
